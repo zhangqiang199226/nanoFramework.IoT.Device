@@ -16,15 +16,15 @@
       },
       "nanoFramework.System.Device.Model": {
         "type": "Direct",
-        "requested": "[1.2.418, 1.2.418]",
-        "resolved": "1.2.418",
-        "contentHash": "Pnl/YJzaQXlls0Cmg4E9r27mpW5+/paVrn1mYYEe0/CqWLOOfJ63FPVJ0eOxN3DRixA2RkNa5wDZjD3r9ARuKw=="
+        "requested": "[1.2.586, 1.2.586]",
+        "resolved": "1.2.586",
+        "contentHash": "lj4INIXKDe9UVgiyITVdBlZEiuuIRpKVlTKLQaJVbjWElXW7SiXLfDhRoytaXl5Hs7LoSVjrmhODoTVLbsAemw=="
       },
       "UnitsNet.nanoFramework.Length": {
         "type": "Direct",
-        "requested": "[5.50.0, 5.50.0]",
-        "resolved": "5.50.0",
-        "contentHash": "thIu0Wwc+4+93u3euKa5SzMOzolnWE30Wz/SlKKF7w9i7r13v+REWtRH07fcoTP64Dyd8iIJfL6XlmrMilogjQ=="
+        "requested": "[5.54.0, 5.54.0]",
+        "resolved": "5.54.0",
+        "contentHash": "ZPazLMaP/S/zulCmO/IH5/W/m1e2302QQodiD7y4x2xbwEt0cpCvVO6aPG+KFMULoOsIuqwdGVd1MalgApbK2w=="
       }
     }
   }
