@@ -16,15 +16,15 @@
       },
       "nanoFramework.Iot.Device.Card": {
         "type": "Direct",
-        "requested": "[1.2.867, 1.2.867]",
-        "resolved": "1.2.867",
-        "contentHash": "1yjUgsY162QFCwNmG0wuNsxtlszZfEf5RBAItBHsRTxbcEpwO/QLt179Q+X25YQK7EdD2f5tlwIdX1X+4dR/Kg=="
+        "requested": "[1.2.881, 1.2.881]",
+        "resolved": "1.2.881",
+        "contentHash": "aWkOK2gl0q2/BaBzhmKgPTZ2PjyYn33fcxFlPBWZERi0UsJtHXKjmkHcX6r4ZLk5y2aCqc58q0k2k9dU1G5qpQ=="
       },
       "nanoFramework.Logging": {
         "type": "Direct",
-        "requested": "[1.1.156, 1.1.156]",
-        "resolved": "1.1.156",
-        "contentHash": "88QonPIXQnfNqs7lPGyS1r+upesv5O8EhwYOHhYGv247ah0pnL2vBKDbR4lRvB2aFOij7ZrbgiuaseKWy4vH/Q=="
+        "requested": "[1.1.157, 1.1.157]",
+        "resolved": "1.1.157",
+        "contentHash": "x+NjFgtfz9vFSuhkvSftvvZ4t6h82pUKZo/yAn8M1KSFKhOzy3x12wyRGqOoIzGdY9XobpnBO2V80Rv8huoj3Q=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -70,15 +70,15 @@
       },
       "nanoFramework.System.IO.Ports": {
         "type": "Direct",
-        "requested": "[1.1.131, 1.1.131]",
-        "resolved": "1.1.131",
-        "contentHash": "xOdwmVoRxoZkadFDeCIjsafNIZiAL7YXpDEJmjrDtyXFKGASMUA2yS5g4XqH6kD8Qa3jn1eslb5mk4esrqeujQ=="
+        "requested": "[1.1.132, 1.1.132]",
+        "resolved": "1.1.132",
+        "contentHash": "EHWkSGOWPShgbAelNOGSIKHo5bmAlvVile7NGfhEzI7oH3D063+IAp/ufaY/TthTjb/saf5bAjbwqynijCNSUw=="
       },
       "nanoFramework.System.IO.Streams": {
         "type": "Direct",
-        "requested": "[1.1.94, 1.1.94]",
-        "resolved": "1.1.94",
-        "contentHash": "vaG/5fgiezaWmXRTSw/6a/XOrWxIcYvEvbXHzGE/0NXwkcYle9KdaUGL2D8NQze60T7HHK0m6TIeVwkEH+ZHPw=="
+        "requested": "[1.1.96, 1.1.96]",
+        "resolved": "1.1.96",
+        "contentHash": "kJSy4EJwChO4Vq3vGWP9gNRPFDnTsDU5HxzeI7NDO+RjbDsx7B8EhKymoeTPLJCxQq8y/0P1KG2XCxGpggW+fw=="
       },
       "nanoFramework.System.Text": {
         "type": "Direct",
